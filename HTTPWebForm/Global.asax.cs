@@ -13,6 +13,14 @@ namespace HTTPWebForm
     {
         protected void Application_Start(object sender, EventArgs e)
         {
+            RegisterRoutes(RouteTable.Routes);
+        }
+
+        protected void RegisterRoutes(RouteCollection routes)
+        {
+            routes.MapPageRoute("AdminPage", "Administrator Page", "~/AdminPage.aspx");
+            routes.MapPageRoute("StudentPage", "Student Page", "~/StudentPage.aspx");
+            routes.MapPageRoute("TeacherPage", "Teacher Page", "~/TeacherPage.aspx");
         }
     }
 }

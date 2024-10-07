@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|d:\\users\\for webtoon\\programming\\c#\\httpwebform\\httpwebform\\teacherpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|solutionrelative:httpwebform\\teacherpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\httpwebform\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|solutionrelative:httpwebform\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|d:\\users\\for webtoon\\programming\\c#\\httpwebform\\httpwebform\\studentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\httpwebform\\studentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|solutionrelative:httpwebform\\studentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|d:\\users\\for webtoon\\programming\\c#\\httpwebform\\httpwebform\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\httpwebform\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|solutionrelative:httpwebform\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|d:\\users\\for webtoon\\programming\\c#\\httpwebform\\httpwebform\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|solutionrelative:httpwebform\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE289081-2A12-45FC-AFB5-060D79DF2C73}|HTTPWebForm\\HTTPWebForm.csproj|d:\\users\\for webtoon\\programming\\c#\\httpwebform\\httpwebform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Site.Master",
               "DocumentMoniker": "D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\HTTPWebForm\\Site.Master",
               "RelativeDocumentMoniker": "HTTPWebForm\\Site.Master",
@@ -63,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginPage.aspx",
               "DocumentMoniker": "D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\HTTPWebForm\\LoginPage.aspx",
               "RelativeDocumentMoniker": "HTTPWebForm\\LoginPage.aspx",
@@ -98,19 +94,6 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-10-02T14:16:38.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeacherPage.aspx",
-              "DocumentMoniker": "D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\HTTPWebForm\\TeacherPage.aspx",
-              "RelativeDocumentMoniker": "HTTPWebForm\\TeacherPage.aspx",
-              "ToolTip": "D:\\Users\\For WEBTOON\\PROGRAMMING\\C#\\HTTPWebForm\\HTTPWebForm\\TeacherPage.aspx",
-              "RelativeToolTip": "HTTPWebForm\\TeacherPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-02T14:17:48.119Z",
               "EditorCaption": ""
             }
           ]

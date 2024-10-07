@@ -95,6 +95,7 @@
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
     <Content Include="Content\bootstrap-grid.rtl.min.css" />
+    <Content Include="Content\bootstrap-icons.css" />
     <Content Include="Content\bootstrap-reboot.css" />
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap-reboot.rtl.css" />
@@ -107,6 +108,12 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\images\hero-img.png" />
+    <Content Include="Content\images\hero-img2.png" />
+    <Content Include="Content\images\test.jpg" />
+    <Content Include="Content\images\tinder.svg" />
+    <Content Include="Content\images\hero-img3.png" />
+    <Content Include="Content\main.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -116,6 +123,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="LoginPage.aspx" />
     <Content Include="AdminPage.aspx" />
+    <Content Include="Scripts\main.js" />
     <Content Include="StudentPage.aspx" />
     <Content Include="TeacherPage.aspx" />
     <None Include="Scripts\jquery-3.7.1.intellisense.js" />

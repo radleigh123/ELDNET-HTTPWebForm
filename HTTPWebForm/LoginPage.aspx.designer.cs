@@ -15,22 +15,31 @@ namespace HTTPWebForm
     {
 
         /// <summary>
-        /// UserLBL control.
+        /// UserIN control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label UserLBL;
+        protected global::System.Web.UI.WebControls.TextBox UserIN;
 
         /// <summary>
-        /// PassLBL control.
+        /// PassIN control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label PassLBL;
+        protected global::System.Web.UI.WebControls.TextBox PassIN;
+
+        /// <summary>
+        /// RememberCB control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox RememberCB;
 
         /// <summary>
         /// SubmitBTN control.

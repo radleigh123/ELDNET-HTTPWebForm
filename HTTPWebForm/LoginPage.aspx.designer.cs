@@ -24,6 +24,24 @@ namespace HTTPWebForm
         protected global::System.Web.UI.WebControls.TextBox UserIN;
 
         /// <summary>
+        /// UserRFV control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator UserRFV;
+
+        /// <summary>
+        /// UserREV control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator UserREV;
+
+        /// <summary>
         /// PassIN control.
         /// </summary>
         /// <remarks>
@@ -31,6 +49,15 @@ namespace HTTPWebForm
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox PassIN;
+
+        /// <summary>
+        /// PassRFV control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator PassRFV;
 
         /// <summary>
         /// RememberCB control.

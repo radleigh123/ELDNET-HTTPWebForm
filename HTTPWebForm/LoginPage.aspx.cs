@@ -14,6 +14,8 @@ namespace HTTPWebForm
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            ValidationSettings.UnobtrusiveValidationMode = UnobtrusiveValidationMode.None;
+
             if (Request.Cookies["Username"] != null)
             {
                 string userCookie = Request.Cookies["Username"].Value;
@@ -50,8 +52,8 @@ namespace HTTPWebForm
                     HttpCookie cookName = new HttpCookie("Username", username);
                     HttpCookie cookPass = new HttpCookie("Password", password);
 
-                    cookName.Expires = DateTime.Now.AddSeconds(60);
-                    cookPass.Expires = DateTime.Now.AddSeconds(60);
+                    cookName.Expires = DateTime.Now.AddSeconds(120);
+                    cookPass.Expires = DateTime.Now.AddSeconds(120);
 
                     Response.Cookies.Add(cookName);
                     Response.Cookies.Add(cookPass);
@@ -99,15 +101,5 @@ namespace HTTPWebForm
             return "";
         }
 
-        protected void UserIN_TextChanged(object sender, EventArgs e)
-        {
-            if (UserIN.Text.Length < 5)
-            {
-                string errorStr = @"<div class='alert alert-danger m-0' role='alert'>
-                                    Username must be at least 5 characters long
-                                </div>";
-                Response.Write(errorStr);
-            }
-        }
     }
 }
